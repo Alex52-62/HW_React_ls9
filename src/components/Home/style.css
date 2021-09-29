@@ -1,0 +1,16 @@
+.check {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.checkIn {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.checkInForm {
+  margin-bottom: 10px;
+}
